@@ -3,7 +3,7 @@ Henock Teshome
 
  Boulder, CO • (720) 251-3722 • [teshome0@gmail.com](mailto:teshome0@gmail.com?Subject=Hello Henock, You're Hired!!) • [Github](https://github.com/xeare) • [Linkedin](https://www.linkedin.com/in/henock-teshome/)
 ---------
-*Detail-oriented, curious and with a proven knowledge of root cause analysis and cross-functional team skills to successfully fill the Software Tester role at your company. Frequently praised as quality-oriented and efficient by my peers, I can be relied upon to help your company achieve its goals.*
+*Detail-oriented, curious and with a proven knowledge of root cause analysis and cross-functional team skills to successfully fill the Software Developer in Test role at your company. Frequently praised as quality-oriented and efficient by my peers, I can be relied upon to help your company achieve its goals.*
 
 WORK EXPERIENCE
 ---------
