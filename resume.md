@@ -38,7 +38,7 @@ PROJECTS
 ####### **2018** {#right}
 ##### **Selenium Page Obect Model (POM)** Showcase
 ####### [github.com/xeare/A-page-object-model-in-practice](https://github.com/xeare/A-page-object-model-in-practice)
-* Built with Python3, its purpose is to show what well implemented Page Object Model looks like in practice and as a reference for all.
+* Built with Python3, its purpose is to show what a well implemented Page Object Model looks like in practice and as a reference for all.
 * Tests an [*E-Commerce Mock Website*](http://automationpractice.com/index.php) with Selenium Webdriver on a Chrome Browser.
 
 
