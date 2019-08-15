@@ -1,0 +1,51 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Unknown </title></head><body>
+<h1 id="my-markdown-pandoc-resume">My Markdown Pandoc Resume</h1>
+<p>This was inspired by my deep anguish for updating my resume using Microsoft Word.
+For those who've used it, I'm sure you understand the pain.
+The constant format tinkering, the laggy startup. There is no winning. Only pain and proprietary software. Oh I dream of the days where painless plain-text writing will prevail! </p>
+<p>If you would like to emulate how my Resume is made, however, please take a look at this blog <a href="http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html">post</a></p>
+<p>The process is <em>fairly</em> simple. </p>
+<h2 id="you-need">You need:</h2>
+<ul>
+<li><a href="https://pandoc.org/">Pandoc</a>
+: A Swiss-Army Knife command line utility to convert anything into anything.</li>
+<li><a href="https://wkhtmltopdf.org/"> Wkhtmltopdf </a>
+: A way to convert HTML documents to PDF ones, in an interesting way.</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Knowledge</a>
+: The stupidest, yet most necessary programming language for styling things.</li>
+<li><a href="https://pandoc.org/MANUAL.html#pandocs-markdown">Markdown Knowledge</a>
+: Markdown is great, but there are different 'flavors'. It'd be good to read up about Pandoc's style of Markdown.</li>
+<li>MakeFile
+: Once you run <code>$ make</code> it'll just compile your document :) no need to go through each command in the command line! </li>
+</ul>
+<h2 id="benefits">Benefits</h2>
+<p>1) <em>Version Control</em>. You can track your resume via git/github! Say goodbye to the days where you had to remember all of your past achievements. Git will do that for you.
+2) <em>Work-Flow</em>. You'll never have to update multiple things. It's all right here. Mkd-&gt; HTML,PDF,DOCX
+3) <em>CSS Styling</em>. Yes it's painful, but it's <strong><em>MUCH</em></strong> better than dealing with LaTex Template programming has. If you disagree, there are good <a href="https://github.com/jgm/pandoc/wiki/User-contributed-templates"> LaTex/ConText templates </a> for these kind of things.</p>
+<h2 id="installation">Installation</h2>
+<ul>
+<li>Pandoc <ul>
+<li>Mac OSX -&gt; <code>brew install pandoc</code> </li>
+<li>Windows Users -&gt; idk google it</li>
+<li>Linux Users -&gt; sudo-apt-get?</li>
+</ul>
+</li>
+<li>WKhtmltopdf <ul>
+<li>Mac OSX -&gt; <code>brew cask install wkhtmltopdf</code> </li>
+<li>Windows Users -&gt; idk google it</li>
+<li>Linux Users -&gt; sudo-apt-get?</li>
+</ul>
+</li>
+</ul>
+<h2 id="workflow">Workflow</h2>
+<p>1) Edit Resume.md
+    - Update your resume!
+    - (Be sure to look at the CSS. If you want things to appear on the right hand side, apply a header7 with the <code>{#right}</code> attribute. It'll add the<code>float: right;</code> attribute
+2) Run the makefile
+    - <code>$ make</code></p>
+<h4 id="special-thanks">Special Thanks</h4>
+<ul>
+<li>My mom</li>
+<li>This simple <a href="https://github.com/chmduquesne/resume/blob/master/Makefile"> MakeFile </a>. </li>
+</ul>
+</body></html>

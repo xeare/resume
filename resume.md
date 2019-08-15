@@ -1,82 +1,69 @@
-Guillermo A. Rodriguez
+Henock Teshome
 ========================
 
-###### Denver, CO • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [rodrguil@oregonstate.edu](mailto:rodrguil@oregonstate.edu?Subject=Hi, I'd like to hire you please.) • [linkedin/pineapplegiant](http://www.linkedin.com/in/pineapplegiant)
-
-EDUCATION
+ Boulder, CO • (720) 251-3722 • [teshome0@gmail.com](mailto:teshome0@gmail.com?Subject=Hello Henock, You're Hired!!) • [Github](https://github.com/xeare) • [Linkedin](https://www.linkedin.com/in/henock-teshome/)
 ---------
-####### **| GPA:** 3.00 {#right}
-####### **Graduated:** July 2018 {#right}
-####### **University of South Florida**
-
-####### Chemical Engineering, Bachelor of Science
-####### Humanities, Bachelor of Arts {#bottom}
-
-
-####### July 2020 {#right}
-####### **Expected:** {#right}
-####### **Oregon State University**
-####### Computer Science, Bachelor of Science
-
-PROJECTS
----------
-####### **January 2019** {#right}
-##### **Joe's Personal Site** Personal Portfolio (Individual Project)
-####### [https://www.joeroccio.com/](https://www.joeroccio.com/)
-* Built and deployed hugo theme using Github Pages hosting
-* Hugo, Markdown, HTML5, CSS3, Bootstrap, Git, Github
-
-####### **April 2018** {#right}
-##### **Hydrone-kit** Product Website (Individual Project)
-####### [https://hydronekit.github.io/](https://hydronekit.github.io)
-* Designed and implemented marketing website for Senior Design project deploying static site to Github Pages
-* HTML5, CSS3, Javascript, Bootstrap. Awarded “Best Senior Design Presentation” in Senior Design Projects
-
-####### **December 2017** {#right}
-##### Personal Portfolio (Group Project)
-####### [https://www.pineapplegiant.com/](https://www.pineapplegiant.com/)
-* Created personal portfolio site using vanilla HTML, CSS grid, and Javascript
-* (*In-Progress*) Migrate and contribute to open source via Golang static site generator framework "Hugo" for blog generation
-
+*Detail-oriented, curious and with a proven knowledge of root cause analysis and cross-functional team skills to successfully fill the Software Tester role at your company. Frequently praised as quality-oriented and efficient by my peers, I can be relied upon to help your company achieve its goals.*
 
 WORK EXPERIENCE
 ---------
 
-####### **August 2018 - December 2018** {#right}
-##### Research Assistant
-*USF IT* | Tampa, FL
+####### **August 2018 - Present** {#right}
+##### Software Release Engineer
+*Kelly Services* | Longmont, CO
 
-* Programmed Django models using Object-Oriented Python, leveraging Django's ORM in database redesign
-* Lead project of 3 students, utilizing agile management techniques using JIRA, assigning tasks, dealing with merge conflicts, and pushes to GitLab
+* Package and release firmware for over 200+ customer facing builds for Intel's NSG division.
+* Communicate with customers to accomplish specific build asks daily in a fast-paced, dynamic environment.
+* Collaborate with team of 10 engineers to improve and refine an internal tool that interfaces with Atlassian's Jira Rest API to automate build, post-processing, and release from end to end.
+* Automate daily build tasks; capturing build logs to increase efficiency and tracking of firmware.
+* Utilize pyest and Mocks to simplify and increase overall branch code coverage by 25%.
+* Develop Selenium tests for primary customer Jira form workflow validation.
+* Coordinate build machines' maintenance by implementing thorough and easily repeatable regression tests.
+* Participate in peer code-reviews in Bitbucket.
 
-####### **September 2016 - July 2017** {#right}
-##### Process Engineer Co-op | *Chemical Recovery & Environmental Department*
-*WestRock* | Covington, VA
-
-* Troubleshot green liquor density systems by daily sampling of the recovery boiler green liquor, correlating results with equipment data, effectively automating control systems
-* Led daily morning and afternoon meetings to communicate pertinent information to the entire department
-* Optimized environmental systems and procedure for the segregation of landfill waste and the handling of naturally occurring radioactive material 
-* Created the first lime kiln thermal picture database to analyze weekly thermal distribution, potentially mitigating the formation of soda rings and reducing potential downtime
-* Led daily morning and afternoon meetings to communicate pertinent information to the entire department
-
-####### **November 2014 – July 2016** {#right}
-##### Math Assistant
- *Kumon* | Tampa, FL
-
-* Facilitated the learning of math and reading skills of kindergarten to fifth grade students by grading worksheets and instructing new students on the Kumon method
-* Created the first center employee manual to standardize the training experience
 
 SKILLS
 ---------
 
 |                                                            |                                                                   |
 |------------------------------------------------------------|-------------------------------------------------------------------|
-|   **Languages:**                                           |   **Frameworks**:  Django, Flask, Hugo, Jekyll, Bootstrap, Sass   |
-|         *Proficient* - English, HTML5, CSS3                |   **Editor**: Vim, VSCode                                         |
-|         *Intermediate* - Spanish, Python, Java, C++, Bash  |   **Version Control**:  Git                                       |
-|         *Novice* - Javascript                              |                                                                   |
+|         **Fluent**:                                        |   **Working**:                                                    |
+|           Python, Git, Selenium WebDriver, Unittest,       |      Flask, Vagrant, Mercurial, Bootstrap 4, Postman, PostgreSQL  |
+|           Pytest, DOM, Django, HTML5, Github, Bitbucket,   |                                                                   |
+|           CSS3, TDD, Atlassian Toolset(Jira etc), Build Automation|                                                            |
 
 
+PROJECTS
+---------
+####### **2018** {#right}
+##### **Selenium Page Obect Model (POM)** Showcase
+####### [github.com/xeare/A-page-object-model-in-practice](https://github.com/xeare/A-page-object-model-in-practice)
+* Built with Python3, its purpose is to show what well implemented Page Object Model looks like in practice and as a reference for all.
+* Tests an [*E-Commerce Mock Website*](http://automationpractice.com/index.php) with Selenium Webdriver on a Chrome Browser.
 
 
+####### **2019** {#right}
+#####  A Personal Journaling Website (Individual Project)
+####### [ajournal.herokuapp.com](https://ajournal.herokuapp.com)
+* An attempt at privacy in a world where people don't own their data. This carves out a small space on the internet for personal thoughts and adventures.
+* Developed with Python's very own Django and backed by PostgreSQL.
+* Deployed on Heroku and CI implemented in TravisCI.
 
+####### **2019** {#right}
+##### My Recipes
+####### [github.com/xeare/myrecipesbook](https://github.com/xeare/myrecipesbook)
+####### (*In Progress*)
+* Yet another Django app to solve the problem of cluttered recipe sites.
+* Driven by minimalism in mind, it will be a simple and clean CRUD app for all my cooking antics.
+
+
+EDUCATION
+---------
+####### November 2020 {#right}
+####### **Expected:** {#right}
+####### **Colorado State University-Global Campus**
+####### IT & Programming, Bachelor of Science
+
+####### Dec 2017 {#right}
+####### **University of Colorado Boulder**
+####### Completed coursework towards B.A. in Neuroscience
