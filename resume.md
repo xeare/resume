@@ -4,7 +4,7 @@ Henock Teshome
 
 Summary
 ---------
-*Detail-oriented Software Developer with over a year of programming experience developing proprietary, customer facing, high-impact software. Team oriented, passionate, and knowledgeable of root cause analysis and modern testing methodologies.*
+*Detail-oriented Software Developer with over a year of programming experience developing proprietary, customer facing, high-impact software. Team oriented, knowledgeable and passionate about root cause analysis and modern testing methodologies.*
 
 WORK EXPERIENCE
 ---------
@@ -13,11 +13,11 @@ WORK EXPERIENCE
 ##### Software Release Engineer
 *Kelly Services* | Longmont, CO
 
-* Package and release firmware for over 200+ customer facing builds for Intel's NSG division.
+* Package and release 200+ customer facing firmware builds for Intel's NSG division.
 * Communicate with customers to accomplish specific build asks daily in a fast-paced, dynamic environment.
 * Collaborate with team of 10 engineers to automate: build, post-processing, and end to end release; utilizing Atlassian's Jira Rest API.
 * Automate daily build tasks; capturing build logs to increase efficiency and tracking of firmware.
-* Utilize Pytest and Mocks to increase overall line code coverage by 25%.
+* Utilize Pytest and Mocks to simplify unittests and increase overall line code coverage by 25%.
 * Develop Selenium tests for Jira-form workflow validation.
 * Coordinate build machines' maintenance by implementing thorough and repeatable regression tests.
 * Participate in peer code-reviews using git workflows and Bitbucket.
@@ -55,7 +55,7 @@ PROJECTS
 ####### [github.com/xeare/myrecipesbook](https://github.com/xeare/myrecipesbook)
 ####### (*In Progress*)
 * A Django web application built to solve the problem of cluttered recipe sites.
-* Designed with minimalism in mind; a simple and clean simple CRUD app for all cooking antics.
+* Designed with minimalism in mind; a simple and clean CRUD app for all cooking antics.
 
 
 EDUCATION
