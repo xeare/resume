@@ -1,9 +1,10 @@
 Henock Teshome
 ========================
+###### Boulder, CO • (720) 251-3722 • [teshome0@gmail.com](mailto:teshome0@gmail.com?Subject=Hello Henock, You're Hired!!) • [github.com/xeare](https://github.com/xeare) • [linkedin/in/henock-teshome](https://www.linkedin.com/in/henock-teshome/)
 
- Boulder, CO • (720) 251-3722 • [teshome0@gmail.com](mailto:teshome0@gmail.com?Subject=Hello Henock, You're Hired!!) • [Github](https://github.com/xeare) • [Linkedin](https://www.linkedin.com/in/henock-teshome/)
+Summary
 ---------
-*Detail-oriented, curious and with a proven knowledge of root cause analysis and cross-functional team skills to successfully fill the Software Developer role at your company. Frequently praised as quality-oriented and efficient by my peers, I can be relied upon to help your company achieve its goals.*
+*Detail-oriented Software Developer with over a year of programming experience developing proprietary, customer facing, high-impact software. Team oriented, passionate, and knowledgeable of root cause analysis and modern testing methodologies.*
 
 WORK EXPERIENCE
 ---------
@@ -14,12 +15,12 @@ WORK EXPERIENCE
 
 * Package and release firmware for over 200+ customer facing builds for Intel's NSG division.
 * Communicate with customers to accomplish specific build asks daily in a fast-paced, dynamic environment.
-* Collaborate with team of 10 engineers to improve and refine an internal tool that interfaces with Atlassian's Jira Rest API to automate build, post-processing, and release from end to end.
+* Collaborate with team of 10 engineers to automate: build, post-processing, and end to end release; utilizing Atlassian's Jira Rest API.
 * Automate daily build tasks; capturing build logs to increase efficiency and tracking of firmware.
-* Utilize pyest and Mocks to simplify and increase overall branch code coverage by 25%.
-* Develop Selenium tests for primary customer Jira form workflow validation.
-* Coordinate build machines' maintenance by implementing thorough and easily repeatable regression tests.
-* Participate in peer code-reviews in Bitbucket.
+* Utilize Pytest and Mocks to increase overall line code coverage by 25%.
+* Develop Selenium tests for Jira-form workflow validation.
+* Coordinate build machines' maintenance by implementing thorough and repeatable regression tests.
+* Participate in peer code-reviews using git workflows and Bitbucket.
 
 
 SKILLS
@@ -38,23 +39,23 @@ PROJECTS
 ####### **2018** {#right}
 ##### **Selenium Page Obect Model (POM)** Showcase
 ####### [github.com/xeare/A-page-object-model-in-practice](https://github.com/xeare/A-page-object-model-in-practice)
-* Built with Python3, its purpose is to show what a well implemented Page Object Model looks like in practice and as a reference for all.
+* A demonstrative Page Object Model built in Python3.
 * Tests an [*E-Commerce Mock Website*](http://automationpractice.com/index.php) with Selenium Webdriver on a Chrome Browser.
 
 
 ####### **2019** {#right}
 #####  A Personal Journaling Website (Individual Project)
 ####### [ajournal.herokuapp.com](https://ajournal.herokuapp.com)
-* An attempt at privacy in a world where people don't own their data. This carves out a small space on the internet for personal thoughts and adventures.
-* Developed with Python's very own Django and backed by PostgreSQL.
+* A Web application serving as a safe space for personal thoughts and adventures, built with a focus on privacy.
+* Created with Django backend framework and PostgreSQL as a database.
 * Deployed on Heroku and CI implemented in TravisCI.
 
 ####### **2019** {#right}
 ##### My Recipes
 ####### [github.com/xeare/myrecipesbook](https://github.com/xeare/myrecipesbook)
 ####### (*In Progress*)
-* Yet another Django app to solve the problem of cluttered recipe sites.
-* Driven by minimalism in mind, it will be a simple and clean CRUD app for all my cooking antics.
+* A Django web application built to solve the problem of cluttered recipe sites.
+* Designed with minimalism in mind; a simple and clean simple CRUD app for all cooking antics.
 
 
 EDUCATION
