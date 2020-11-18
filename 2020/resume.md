@@ -12,13 +12,9 @@ WORK EXPERIENCE
 ##### Software Engineering Intern
 Intel | Longmont, CO
 
-* Decreased build times by up to 80% by consolidating and automating nearly all product pipelines.
-* Collaborated with team members to migrate code base from python 2 to python 3.
-* Developed adapters to security and code compliance scanning tools for ease of use and increased efficiency.
-* Increase developers' productivity by providing a framework to meaningfully and significantly increase test coverage.
-* Improved and standardized quality of customer artifacts by providing various tools for validation.
-* Created documentation around the team's software on development and usage to ease onboarding of new contributors.
-* Played a key role in bridging the gap between operation and development communications during code reviews leading to enhanced code quality.
+* Took initiative to expand job scope through the mastering of all aspects required in the build process, which lead to more visibility into key problems and their solutions.
+* Improved build process throughput by up to 5 times, through automation of significant portions of the build shipping process, leading to increased customer satisfaction and trust.
+* Maximized build quality by providing validation tools and a framework to increase testing, decreasing software escapes and increased confidence in the final product.
 
 
 ####### **August 2018 - January 2020** {#right}
@@ -45,13 +41,6 @@ Tools/Technologies
 
 PROJECTS
 ---------
-####### **2019** {#right}
-#####  Vanilla Color Palette Creator(collab w/ pineapplegiant)
-####### Repo: [https://github.com/pineapplegiant/color-palette](https://github.com/pineapplegiant/color-palette)
-####### Page: [https://pineapplegiant.github.io/color-palette](https://pineapplegiant.github.io/color-palette)
-* A color palette creator to generate color schemes.
-* Current color scheme generators limit the number of colors available in a scheme.
-* This app allows for as many colors as desired.
 
 ####### **2019-2020** {#right}
 ##### All-Recipes
@@ -60,6 +49,13 @@ PROJECTS
 * Designed with minimalism and ease-of-use in mind.
 * Created with Python3/Django as backend and PostgreSQL as database.
 
+####### **2019** {#right}
+#####  Vanilla Color Palette Creator(collab w/ pineapplegiant)
+####### Repo: [https://github.com/pineapplegiant/color-palette](https://github.com/pineapplegiant/color-palette)
+####### Page: [https://pineapplegiant.github.io/color-palette](https://pineapplegiant.github.io/color-palette)
+* A color palette creator to generate color schemes.
+* Current color scheme generators limit the number of colors available in a scheme.
+* This app allows for as many colors as desired.
 
 EDUCATION
 ---------
